@@ -1,0 +1,15 @@
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.csproj.AssemblyReference.cache
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.AssemblyInfoInputs.cache
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.AssemblyInfo.cs
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.csproj.CoreCompileInputs.cache
+C:\Pratikler\dongulerwhileforeach\bin\Debug\net7.0\dongulerwhileforeach.exe
+C:\Pratikler\dongulerwhileforeach\bin\Debug\net7.0\dongulerwhileforeach.deps.json
+C:\Pratikler\dongulerwhileforeach\bin\Debug\net7.0\dongulerwhileforeach.runtimeconfig.json
+C:\Pratikler\dongulerwhileforeach\bin\Debug\net7.0\dongulerwhileforeach.dll
+C:\Pratikler\dongulerwhileforeach\bin\Debug\net7.0\dongulerwhileforeach.pdb
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.dll
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\refint\dongulerwhileforeach.dll
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.pdb
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\dongulerwhileforeach.genruntimeconfig.cache
+C:\Pratikler\dongulerwhileforeach\obj\Debug\net7.0\ref\dongulerwhileforeach.dll
